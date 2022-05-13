@@ -27,4 +27,6 @@
         "group": "test",
         "problemMatcher": [ "$tsc" ]
     }]
-}
+    
+    
+"problemMatcher" : [ "$tsc" ]
